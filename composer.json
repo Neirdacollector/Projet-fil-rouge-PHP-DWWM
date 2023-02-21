@@ -1,0 +1,19 @@
+{
+    "name": "stagiaire/projetfilrouge-v2",
+    "description": "projet fil rouge",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^10.0"
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Stagiaire\\ProjetfilrougeV2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrien"
+        }
+    ]
+}

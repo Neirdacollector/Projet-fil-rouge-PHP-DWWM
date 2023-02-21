@@ -1,0 +1,20 @@
+TP: gestion des centres de formation
+
+Etape 1: créer un formulaire d'ajout de centre
+indices: 
+les attributs d'un centre sont:
+    id
+    nom
+    adresse
+    codepostal
+    ville
+Etape 2: créer un script qui traite les données du formulaire
+le script doit 
+    récupérer les données du formulaire 
+    vérifier la validité de données  
+    sauvegarder le centre dans la base de données (save)
+Indices:
+    -créer une table nommée "centre" dans la BDD
+    -créer un CentreDAO qui permet de communiquer avec la BDD
+
+TP A RENDRE AU PLUS TARD LUNDI à 14H30 SUR LE SITE https://formation.baobab-ingenierie.fr
